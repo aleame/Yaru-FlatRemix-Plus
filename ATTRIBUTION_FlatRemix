@@ -1,0 +1,38 @@
+Flat Remix Icon Theme
+======================
+
+Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
+
+Maintainer:
+- Daniel Ruiz de Alegría (https://drasite.com)
+
+Some icons are based on:
+- Paper icon theme (https://github.com/snwh/paper-icon-theme)
+  Author: Sam Hewitt (https://samuelhewitt.com)
+  License: CC-BY-SA-4.0
+
+- EvoPop icon theme (https://github.com/poltertec/evopop-icon-theme)
+  Author: Peter Cornelis (https://github.com/poltertec)
+  License: CC-BY-SA-4.0
+
+- Numix icon theme (https://github.com/numixproject/numix-icon-theme)
+  Author: Numix Project (https://github.com/numixproject)
+  License: GPL-3.0
+
+- Flattr icon theme
+  Author: Nitrux Project (https://nxos.org)
+  License: CC-BY-SA-4.0
+
+- Papirus icon theme (https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+  Author: Papirus Development Team (https://github.com/PapirusDevelopmentTeam)
+  License: GPL-3.0
+
+License: GNU General Public License v3.0 (GPL-3.0)
+Full license text: LICENSE.txt
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+
+Flat Remix is available at https://github.com/daniruiz/flat-remix
+
+This icon theme includes modifications and may be combined with other icon sets.
+
+If you distribute this work, you must comply with the terms of the GPL-3.0 license, including providing source code and license text.

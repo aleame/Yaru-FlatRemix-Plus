@@ -1,0 +1,20 @@
+# Temporary files
+*.swp
+*.swo
+*~
+*.bak
+
+# Build artifacts
+/icon-theme.cache
+
+# IDE
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Backup folders
+backup/
+temp/
