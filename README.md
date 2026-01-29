@@ -12,11 +12,13 @@ This icon theme combines icons from three popular projects:
 
 The theme is designed to work with GNOME, Unity, and other desktop environments that support the FreeDesktop icon theme specification.
 
-## Preview
+## Preview Application Icons
 
-![Icon Preview](icon-preview.svg)
+![Icon Application Preview](IconApps.png)
 
-*Sample icons: Folder, Copy, Paste, Cut*
+## Preview Application Icons
+
+![Icon Folder Preview](IconFolders.png)
 
 ## Installation## Installation
 
