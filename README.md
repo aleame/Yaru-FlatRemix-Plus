@@ -16,11 +16,11 @@ The theme is designed to work with GNOME, Unity, and other desktop environments 
 
 ![Icon Application Preview](IconApps.png)
 
-## Preview Application Icons
+## Preview Folders Icons
 
 ![Icon Folder Preview](IconFolders.png)
 
-## Installation## Installation
+## Installation
 
 1. Extract the theme to your icons directory:
    ```bash
